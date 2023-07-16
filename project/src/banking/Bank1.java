@@ -10,7 +10,7 @@ public class Bank1 {
 
 	}
 }
-
+ 
 class BankAccount {
 	int balance;
 	int previousTransaction;
