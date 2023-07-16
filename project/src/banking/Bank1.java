@@ -39,9 +39,9 @@ class BankAccount {
 
 	void getPreviousTransaction() {
 		if (previousTransaction > 0) {
-			System.out.println("ÀÔ±İ : " + previousTransaction);
+			System.out.println("Ã€Ã”Â±Ã : " + previousTransaction);
 		} else if (previousTransaction < 0) {
-			System.out.println("Ãâ±İ :" + Math.abs(previousTransaction));
+			System.out.println("ÃƒÃ¢Â±Ã :" + Math.abs(previousTransaction));
 		} else {
 			System.out.println("No transaction occured");
 		}
@@ -116,4 +116,4 @@ class BankAccount {
 		}
 	}
 
-}
+} 
