@@ -13,7 +13,7 @@ public class Bank1 {
  
 class BankAccount {
 	int balance;
-	int previousTransaction;
+	int previousTransaction; 
 	String customerName;
 	String customerID;
 
