@@ -1,6 +1,6 @@
 package banking;
 
-import java.util.Scanner;
+import java.util.Scanner;  
 
 public class Bank1 {   
 	public static void main(String[] args) {
