@@ -1,8 +1,8 @@
-package banking;
+ package banking;
 
 import java.util.Scanner;  
 
-public class Bank1 {   
+public class Bank1 {    
 	public static void main(String[] args) {
    
 		BankAccount obj1 = new BankAccount("XYZ", "BA0001");
