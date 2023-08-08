@@ -1,4 +1,4 @@
- package banking;
+ package banking; 
  
 import java.util.Scanner;  
 
